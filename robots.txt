@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caddytan.github.io/notes-zpm8rn/sitemap.xml
